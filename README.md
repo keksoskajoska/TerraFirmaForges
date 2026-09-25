@@ -74,6 +74,15 @@ Target: 111
 1 x bend
 1 x upset
 
+Bismuth Bronze Mining Hammer
+Target: 86
+shrink punch
+68
+4 x shrink
+2 x punch
+1 x shrink
+1 x punch
+
 Unfinished Iron Flask
 Target: 108
 4 x shrink
@@ -102,3 +111,11 @@ Target: 92
 1 x bend
 2 x punch
 1 x draw
+
+Wrought Iron Propick
+Target: 68
+5 x shrink 
+1 x medium
+1 x bend
+1 x draw
+1 x punch
