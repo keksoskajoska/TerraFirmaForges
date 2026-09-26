@@ -83,6 +83,19 @@ shrink punch
 1 x shrink
 1 x punch
 
+Bismuth Bronze Oarlock
+Target: 88
+5 x shrink
+1 x bend
+2 x light
+1 x bend
+
+Bismuth Bronze Saw
+Target: 108
+7 x shrink
+1 x punch
+2 x light
+
 Unfinished Iron Flask
 Target: 108
 4 x shrink
