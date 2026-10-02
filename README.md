@@ -1,6 +1,13 @@
 # TerraFirmaForges
 TerraFirmaGreg forging steps for seed:
 
+Brass Ring
+Target: 92
+6 x shrink
+4 x punch
+2 x light
+1 x medium
+
 Bismuth Bronze Ring
 Target: 83
 4 x shrink
