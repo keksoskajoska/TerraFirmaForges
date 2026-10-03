@@ -103,6 +103,14 @@ Target: 108
 1 x punch
 2 x light
 
+Bismuth Bronze Butcher Knife
+Target: 60
+3 x shrink
+1 x punch
+1 x medium
+2 x bend
+1 x punch
+
 Unfinished Iron Flask
 Target: 108
 4 x shrink
@@ -139,3 +147,12 @@ Target: 68
 1 x bend
 1 x draw
 1 x punch
+
+Wrought Iron Buzzsaw
+Target: 94
+6 x shrink
+1 x bend
+1 x punch
+1 x draw
+1 x light
+1 x bend
