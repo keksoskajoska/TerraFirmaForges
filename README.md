@@ -111,6 +111,12 @@ Target: 60
 2 x bend
 1 x punch
 
+Bismuth Bronze Tuyere
+Target: 112
+bend bend 98
+6 shrink 96
+1 punch
+
 Unfinished Iron Flask
 Target: 108
 4 x shrink
