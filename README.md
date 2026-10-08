@@ -162,3 +162,11 @@ Target: 94
 1 x draw
 1 x light
 1 x bend
+
+Steel Pickaxe Head
+Target: 43
+draw bend punch 49
+2 x upset 26
+1 x shrink 42
+1 x bend 49
+draw bend punch
