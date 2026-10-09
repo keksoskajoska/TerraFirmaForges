@@ -165,8 +165,82 @@ Target: 94
 
 Steel Pickaxe Head
 Target: 43
-draw bend punch 49
-2 x upset 26
-1 x shrink 42
-1 x bend 49
-draw bend punch
+2 x upset
+1 x shrink
+1 x bend
+1 x draw
+1 x bend
+1 x punch
+
+Steel Tong Part
+Target: 110
+7 x shrink
+1 x upset
+1 x punch
+1 x bend
+1 x draw
+1 x heavy
+
+Steel Propick Head
+Target: 112
+7 x shrink
+3 x punch
+1 x bend
+1 x draw
+1 x punch
+
+Steel Shovel Head
+Target: 61
+4 x shrink
+2 x punch
+1 xheavy
+1 x punch
+
+Steel Axe Head
+Target: 85
+5 x shrink
+1 x punch
+1 x light
+1 x upset
+1 x heavy
+1 x punch
+
+Steel Hoe Head
+Target: 69
+4 x shrink
+1 x punch
+1 x bend
+1 x medium
+1 x punch
+
+Steel Chisel Head
+Target: 54
+5 x shrink
+2 x punch
+1 x draw
+1 x medium
+1 x heavy
+
+Steel Mining Hammer Head
+Target: 102
+5 x shrink
+2 x punch
+1 x shrink
+1 x punch
+
+Steel Spade Head
+Target: 88
+5 x shrink
+1 x upset
+1 x punch
+1 x heavy
+1 x punch
+
+Steel Shield
+Target: 70
+2 x shrink
+1 x upset
+2 x punch
+1 x medium
+2 x bend
+1 x upset
