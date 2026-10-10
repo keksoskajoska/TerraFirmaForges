@@ -1,12 +1,40 @@
 # TerraFirmaForges
 TerraFirmaGreg forging steps for seed:
 
+Copper Spring
+Target: 100
+5 x shrink
+1 x upset
+1 x punch
+2 x bend
+1 x heavy
+
 Brass Ring
 Target: 92
 6 x shrink
 4 x punch
 2 x light
 1 x medium
+
+Brass Small Gear
+Target: 89
+5 x shrink
+2 x bend
+1 x draw
+1 x shrink
+1 x medium
+
+Brass Bolt
+Target: 85
+draw draw punch 117
+
+Red Alloy Small Gear
+Target: 68
+4 x shrink
+3 x punch
+1 x draw
+1 x shrink
+1 x light
 
 Bismuth Bronze Ring
 Target: 83
@@ -146,6 +174,13 @@ Target: 92
 2 x punch
 1 x draw
 
+Wrought Iron Screw
+Target: 110
+4 x shrink
+2 x upset
+1 x shrink
+2 x punch
+
 Wrought Iron Propick
 Target: 68
 5 x shrink 
@@ -162,6 +197,15 @@ Target: 94
 1 x draw
 1 x light
 1 x bend
+
+Wrought Iron Small Gear
+Target: 41
+2 x shrink
+1 x upset
+2 x punch
+1 x draw
+1 x shrink
+1 x heavy
 
 Steel Pickaxe Head
 Target: 43
@@ -236,6 +280,16 @@ Target: 88
 1 x heavy
 1 x punch
 
+Steel Hammer Head
+Target: 85
+shrink punch 67
+2 x shrink
+2 x upset
+1 x bend
+1 x punch
+1 x shrink
+1 x punch
+
 Steel Shield
 Target: 70
 2 x shrink
@@ -244,3 +298,39 @@ Target: 70
 1 x medium
 2 x bend
 1 x upset
+
+Small Steel Gear
+Target: 61
+4 x shrink
+1 x punch
+1 x draw
+1 x shrink
+1 x medium
+
+Steel Rod
+Target: 110
+7 x shrink
+1 x upset
+1 x draw
+
+Steel Ring
+Target: 95
+6 x shrink
+2 x bend
+1 x light
+2 x medium
+
+Steel Screw
+Target: 108
+4 x shrink
+2 x bend
+1 x upset
+1 x light
+1 x shrink
+2 x punch
+
+Steel Spring
+Target: 88
+5 x shrink
+2 x bend
+1 x medium
