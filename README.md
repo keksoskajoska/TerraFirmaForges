@@ -358,3 +358,12 @@ Target: 88
 5 x shrink
 2 x bend
 1 x medium
+
+Steel Bars
+Target: 55
+punch punch upset 38
+6 x bend
+1 x punch
+1 x medium
+2 x punch
+1 x upset
