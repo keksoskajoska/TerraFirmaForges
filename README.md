@@ -167,6 +167,15 @@ Target: 70
 1 x heavy
 1 x light
 
+Wrought Iron Pickaxe Head
+Target: 69
+4 x shrink
+1 x bend
+2 x punch
+1 x draw
+1 x bend
+1 x punch
+
 Wrought Iron Rod
 Target: 92
 6 x shrink
@@ -206,6 +215,12 @@ Target: 41
 1 x draw
 1 x shrink
 1 x heavy
+
+Steel Javelin Head
+Target: 47
+5 x shrink
+1 x draw
+2 x heavy
 
 Steel Pickaxe Head
 Target: 43
@@ -297,6 +312,15 @@ Target: 70
 2 x punch
 1 x medium
 2 x bend
+1 x upset
+
+Steel Buckle
+Target: 44
+shrink hit upset 18 21 24
+1 x shrink
+1 x punch
+1 x shrink
+1 x light
 1 x upset
 
 Small Steel Gear
