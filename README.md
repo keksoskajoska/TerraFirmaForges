@@ -372,7 +372,7 @@ Target: 95
 1 x light
 2 x medium
 
-Steel Screw
+Steel Screw - from Rod
 Target: 108
 4 x shrink
 2 x bend
@@ -380,6 +380,8 @@ Target: 108
 1 x light
 1 x shrink
 2 x punch
+
+Steel Bolt - from Ingot
 
 Steel Spring
 Target: 88
