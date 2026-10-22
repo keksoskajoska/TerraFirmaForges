@@ -9,6 +9,19 @@ Target: 100
 2 x bend
 1 x heavy
 
+Copper Ring
+Target: 84
+6 x shrink
+1 x medium
+2 x light
+
+Copper Screw
+Target: 56
+2 x shrink
+2 x punch
+1 x shrink
+2 x punch
+
 Brass Ring
 Target: 92
 6 x shrink
@@ -166,6 +179,12 @@ Target: 70
 1 x punch
 1 x heavy
 1 x light
+
+Tin Alloy Rod
+Target: 62
+4 x shrink
+1 x upset
+1 x draw
 
 Wrought Iron Pickaxe Head
 Target: 69
