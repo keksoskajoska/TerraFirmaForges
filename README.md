@@ -382,6 +382,11 @@ Target: 108
 2 x punch
 
 Steel Bolt - from Ingot
+Target: 102
+8 x shrink
+1 x punch
+2 x draw
+1 x punch
 
 Steel Spring
 Target: 88
