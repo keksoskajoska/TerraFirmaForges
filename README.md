@@ -202,7 +202,16 @@ Target: 92
 2 x punch
 1 x draw
 
-Wrought Iron Screw
+Wrought Iron Screw - from Ingot
+Target: 94
+4 x shrink
+1 x upset
+1 x light
+1 x shrink
+2 x punch
+
+
+Wrought Iron Screw - from Rod
 Target: 110
 4 x shrink
 2 x upset
@@ -386,3 +395,10 @@ punch punch upset 38
 1 x medium
 2 x punch
 1 x upset
+
+Black Steel Rod
+Target: 43
+draw 58
+4 x shrink
+1 x medium
+1 x draw
