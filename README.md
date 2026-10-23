@@ -55,6 +55,15 @@ Target: 83
 4 x bend
 3 x light hit
 
+Bismuth Bronze Screw from Rod
+Target: 89
+4 x shrink
+2 x bend
+1 x heavy
+1 x shrink
+2 x punch
+
+
 Bismuth Bronze Rod
 Target: 54
 3 x shrink
