@@ -342,7 +342,6 @@ Target: 88
 
 Steel Hammer Head
 Target: 85
-shrink punch 67
 2 x shrink
 2 x upset
 1 x bend
@@ -358,6 +357,29 @@ Target: 70
 1 x medium
 2 x bend
 1 x upset
+
+Steel Saw
+Target: 105
+7 x shrink
+1 x punch
+1 x medium
+1 x light
+
+Steel Knife
+Target: 49
+draw bend punch 55
+3 x shrink
+1 x bend
+1 x draw
+1 x bend
+1 x punch
+
+Steel Wrench
+Target: 83
+7 x shrink
+2 x punch
+2 x heavy
+1 x draw
 
 Steel Buckle
 Target: 44
