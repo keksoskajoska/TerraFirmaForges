@@ -41,6 +41,14 @@ Brass Bolt
 Target: 85
 draw draw punch 117
 
+Rose Gold Bolt from Ingot
+Target: 53
+4 x shrink
+1 x upset
+2 x punch
+2 x draw
+1 x punch
+
 Red Alloy Small Gear
 Target: 68
 4 x shrink
@@ -353,7 +361,6 @@ Target: 70
 
 Steel Buckle
 Target: 44
-shrink hit upset 18 21 24
 1 x shrink
 1 x punch
 1 x shrink
