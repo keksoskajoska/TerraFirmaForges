@@ -57,6 +57,14 @@ Target: 68
 1 x shrink
 1 x light
 
+Bronze Screw from Ingot
+Target: 85
+4 x shrink
+2 x punch
+1 x light
+1 x shrink
+2 x punch
+
 Bismuth Bronze Ring
 Target: 83
 4 x shrink
@@ -434,16 +442,22 @@ Target: 88
 
 Steel Bars
 Target: 55
-punch punch upset 38
 6 x bend
 1 x punch
 1 x medium
 2 x punch
 1 x upset
 
+Steel Drill Head
+Target: 48
+3 x shrink
+3 x punch
+1 x bend
+1 x punch
+1 x draw
+
 Black Steel Rod
 Target: 43
-draw 58
 4 x shrink
 1 x medium
 1 x draw
