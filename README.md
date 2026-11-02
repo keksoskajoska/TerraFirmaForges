@@ -498,3 +498,83 @@ Target: 95
 1 x light
 1 x punch
 
+Blue Steel Mining Hammer
+Target: 88
+4 x shrink
+3 x punch
+1 x shrink
+1 x punch
+
+Blue Steel Spade
+Target: 46
+2 x shrink
+3 x bend
+1 x heavy
+1 x punch
+
+Blue Steel Bucket
+Target: 65
+2 x shrink
+1 x upset
+1 x punch
+1 x light
+3 x bend
+
+Blue Steel Boots
+Target: 47
+1 x upset
+2 x punch
+1 x shrink
+2 x bend
+
+Blue Steel Grieves
+Target: 99
+7 x shrink
+2 x punch
+1 x heavy
+1 x draw
+1 x bend
+
+Blue Steel Chestplate
+Target: 108
+5 x shrink
+3 x bend
+1 x upset
+2 x light
+
+Red Steel Tong Part
+Target: 52
+4 x shrink
+1 x punch
+1 x bend
+1 x draw
+1 x medium
+
+Red Steel Prospectors Pick
+Target: 44
+3 x shrink
+1 x punch
+1 x bend
+1 x draw
+1 x punch
+
+Red Steel Hoe
+Target: 82
+5 x shrink
+1 x punch
+1 x bend
+1 x heavy
+1 x punch
+
+Red Steel Bucket
+Target: 49
+2 x upset
+1 x punch
+3 x bend
+
+Red Steel Unfinished Flask
+Target: 101
+4 x shrink
+3 x bend
+2 x bend
+1 x punch
