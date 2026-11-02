@@ -227,6 +227,13 @@ Target: 92
 2 x punch
 1 x draw
 
+Wrought Iron Bar
+Target: 88
+4 x shrink
+1 x bend
+2 x punch
+1 x upset
+
 Wrought Iron Screw - from Ingot
 Target: 94
 4 x shrink
@@ -461,3 +468,33 @@ Target: 43
 4 x shrink
 1 x medium
 1 x draw
+
+Blue Steel Axe
+Target: 60
+3 x shrink
+1 x upset
+1 x light
+1 x punch
+
+Blue Steel Pickaxe
+Target: 95
+5 x shrink
+3 x bend
+1 x draw
+1 x bend
+1 x punch
+
+Blue Steel Prospectors Pick
+Target: 47
+2 x shrink
+3 x bend
+1 x bend
+1 x draw
+1 x punch
+
+Blue Steel Shovel Head
+Target: 95
+6 x shrink
+1 x light
+1 x punch
+
