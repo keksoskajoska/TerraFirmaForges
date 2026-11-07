@@ -447,7 +447,14 @@ Target: 88
 2 x bend
 1 x medium
 
-Steel Bars
+Steel Bars - dark
+Target: 95
+4 x shrink
+2 x bend
+2 x punch
+1 x upset
+
+Steel Bars - light
 Target: 55
 6 x bend
 1 x punch
