@@ -9,7 +9,15 @@ Target: 100
 2 x bend
 1 x heavy
 
-Copper Ring
+Copper Ring from Ingot
+Target: 74
+5 x shrink
+1 x bend
+1 x punch
+1 x hard hit
+2 x light hit
+
+Copper Ring from Rod
 Target: 84
 6 x shrink
 1 x medium
